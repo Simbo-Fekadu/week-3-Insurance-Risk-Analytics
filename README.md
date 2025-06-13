@@ -1,23 +1,38 @@
-﻿# Week 3: Insurance Risk Analytics
+﻿# 🚗 Week 3: Insurance Risk Analytics
 
-Repository for 10 Academy Week 3 project on car insurance data analysis.
+![Insurance Banner](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80)
 
-## Objectives
-- EDA to find risk and profitability patterns.
-- A/B hypothesis testing.
-- Predictive modeling for claims and premiums.
-- Data versioning with DVC.
+> **Repository for 10 Academy Week 3 project on car insurance data analysis.**
 
-## Structure
-- /data: Datasets (DVC-tracked).
-- /notebooks: EDA and analysis notebooks.
-- /src: Python scripts.
-- /docs: Reports and plots.
+---
 
-## Setup
-1. Clone: git clone https://github.com/Simbo-Fekadu/week-3-Insurance-Risk-Analytics.git
-2. Install: pip install -r requirements.txt
+## 🎯 Objectives
 
-## Key Dates
-- Interim: 15 June 2025, 8:00 PM UTC
-- Final: 17 June 2025, 8:00 PM UTC
+- **EDA:** Explore data to uncover risk and profitability patterns.
+- **A/B Testing:** Perform hypothesis testing on key variables.
+- **Predictive Modeling:** Build models for claims and premium prediction.
+- **Data Versioning:** Manage datasets and models with [DVC](https://dvc.org/).
+
+---
+
+## 📁 Project Structure
+
+```plaintext
+/data       # Datasets (DVC-tracked)
+/notebooks  # EDA and analysis notebooks
+/src        # Python scripts
+/docs       # Reports and plots
+```
+
+---
+
+## ⚡ Setup Instructions
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Simbo-Fekadu/week-3-Insurance-Risk-Analytics.git
+   ```
+2. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
