@@ -1,11 +1,5 @@
 ﻿# 🚗 Week 3: Insurance Risk Analytics
 
-![Insurance Banner](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80)
-
-> **Repository for 10 Academy Week 3 project on car insurance data analysis.**
-
----
-
 ## 🎯 Objectives
 
 - **EDA:** Explore data to uncover risk and profitability patterns.
